@@ -1,7 +1,7 @@
-techeventsnepal
+Tech-Events-Nepal
 ==============================
 
-All tech events in Nepal
+All tech events in Nepal. A django project based on Pydanny's cookiecutter-django. Uses Postgres, Docker, Heroku and the most of the best practices for Django.
 
 
 LICENSE: BSD
